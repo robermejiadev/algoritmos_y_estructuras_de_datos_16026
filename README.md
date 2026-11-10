@@ -1,28 +1,28 @@
 # <center>Algoritmos y Estructuras de Datos- Sección 16026</center>
-## Docente: Mario Cesar SANTILLANA VALDIVIA
+## Docente: Mario César SANTILLANA VALDIVIA
 
 
 ## Proyecto Final
 ### Menú Principal
-(![alt text](image.png))
+![alt text](https://robermejia.com/img/portfolio/large/project-10/1.png?v=1794368051441)
 
 ### Registrar Votos
 ![](https://i.ibb.co/PZMRyqMH/2.png)
 
-### Consultar Votos
-![](https://i.ibb.co/1tpD7YqN/3.png)
+### Consultas de Votaciones
+![](https://robermejia.com/img/portfolio/large/project-10/3.png?v=1794368209129)
 
-### Reporte de Votos
-![](https://i.ibb.co/JjR0F93n/4.png)
+### Reporte Votos Validos
+![](https://robermejia.com/img/portfolio/large/project-10/4.png?v=1794368250383)
 
 ### Reporte Nulos de Votos
-![](https://i.ibb.co/5XDwzP54/5.png)
+![](https://robermejia.com/img/portfolio/large/project-10/5.png?v=1794368275987)
 
 ### Reporte Nulos Abstenidos
-![](https://i.ibb.co/Z6nSBMdf/6.png)
+![](https://robermejia.com/img/portfolio/large/project-10/6.png?v=1794368301453)
 
 ### Ganador de Elecciones
-![](https://i.ibb.co/b501Xr9H/7.png)
+![](https://robermejia.com/img/portfolio/large/project-10/7.png?v=1794368325120)
 
 
 
